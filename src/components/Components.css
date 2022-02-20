@@ -1,0 +1,10 @@
+.container-sm{
+    border: 2px solid black;
+    justify-content: center;
+    width: 50%;
+}
+
+.list-group-item{
+    width: 89%;
+}
+
