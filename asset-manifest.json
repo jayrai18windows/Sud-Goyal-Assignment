@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sud-Goyal-Assignment/static/css/main.020cf700.css",
+    "main.js": "/sud-Goyal-Assignment/static/js/main.e8973742.js",
+    "index.html": "/sud-Goyal-Assignment/index.html",
+    "main.020cf700.css.map": "/sud-Goyal-Assignment/static/css/main.020cf700.css.map",
+    "main.e8973742.js.map": "/sud-Goyal-Assignment/static/js/main.e8973742.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.020cf700.css",
+    "static/js/main.e8973742.js"
+  ]
+}
